@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myproject-3a1bb": {
+      "hosting": {
+        "Basic": [
+          "myproject-3a1bb"
+        ]
+      }
+    }
+  }
+}
