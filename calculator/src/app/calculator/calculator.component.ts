@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './calculator.component.html',
   styleUrls: ['./calculator.component.css']
 })
-export class CalculatorComponent implements OnInit {
+export class CalculatangularorComponent implements OnInit {
 
   subText = '';
   mainText = '';
